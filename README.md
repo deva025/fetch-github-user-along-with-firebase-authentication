@@ -1,5 +1,5 @@
 
-This application utilizes the GitHub API to enable users to access and display GitHub user details along with their repositories. To ensure privacy and security, the app requires users to sign in or sign up using Firebase authentication before accessing any GitHub user information. Without logging in, users won't be able to fetch GitHub user details. Once successfully logged in, users can easily search for GitHub users by entering their usernames, and the app will promptly display all the relevant details for the chosen user.
+This application utilizes the GitHub API to enable users to access and display GitHub user's details along with their repositories. To ensure privacy and security, the app requires users to sign in or sign up using Firebase authentication before accessing any GitHub user information. Without logging in, users won't be able to fetch GitHub user details. Once successfully logged in, users can easily search for GitHub users by entering their usernames, and the app will promptly display all the relevant details for the chosen user.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
